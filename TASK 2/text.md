@@ -39,5 +39,5 @@ This project implements a **Tic-Tac-Toe game with an AI opponent**. The game all
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-adhirajkarjee/tic-tac-toe-ai.git
+   git clone https://github.com/Adhirajkarjee/tic-tac-toe-ai.git
    cd tic-tac-toe-ai
