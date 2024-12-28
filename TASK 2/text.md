@@ -35,9 +35,4 @@ This project implements a **Tic-Tac-Toe game with an AI opponent**. The game all
 - Python 3.x
 - `tkinter` (comes pre-installed with Python)
 
-## How to Run 🖥️
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Adhirajkarjee/tic-tac-toe-ai.git
-   cd tic-tac-toe-ai
