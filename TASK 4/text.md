@@ -90,7 +90,7 @@ Bhool Bhulaiya 3 (Horror Thriller)
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/movie-recommendation-system.git
+   git clone https://github.com/Adhirajkarjee/movie-recommendation-system.git
    cd movie-recommendation-system
    ```
 
