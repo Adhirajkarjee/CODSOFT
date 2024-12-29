@@ -1,6 +1,3 @@
-Here’s the text for a GitHub repository based on your movie recommendation system:
-
----
 
 # Movie Recommendation System 🎥
 
