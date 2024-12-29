@@ -86,45 +86,6 @@ Bhool Bhulaiya 3 (Horror Thriller)
 
 ---
 
-## Installation 🛠️
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Adhirajkarjee/movie-recommendation-system.git
-   cd movie-recommendation-system
-   ```
-
-2. Install required dependencies:
-   ```bash
-   pip install pandas numpy scikit-learn scipy
-   ```
-
-3. Run the script:
-   ```bash
-   python movie_recommendation.py
-   ```
-
----
-
-## Requirements 📋
-
-- Python 3.8+  
-- Libraries: `pandas`, `numpy`, `scikit-learn`, `scipy`
-
----
-
-## Contributing 🤝
-
-Contributions are welcome! Please feel free to submit a pull request or create an issue.
-
----
-
-## License 📜
-
-This project is licensed under the MIT License.
-
----
-
 ## Acknowledgements 🙏
 
 - Scikit-learn for its robust machine learning algorithms.  
